@@ -1,0 +1,41 @@
+[
+  {
+    "name": "RawDataAdventureWorks_Sales_2017",
+    "path": "/Files",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Files/RawDataAdventureWorks_Sales_2017",
+        "itemId": "387af5a0-df40-9976-43b3-65ef491162e6",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
+      }
+    }
+  },
+  {
+    "name": "RawDataAdventureWorks_Sales_2016",
+    "path": "/Files",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Files/RawDataAdventureWorks_Sales_2016",
+        "itemId": "387af5a0-df40-9976-43b3-65ef491162e6",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
+      }
+    }
+  },
+  {
+    "name": "RawDataAdventureWorks_Customers",
+    "path": "/Files",
+    "target": {
+      "type": "OneLake",
+      "oneLake": {
+        "path": "Files/RawDataAdventureWorks_Customers",
+        "itemId": "387af5a0-df40-9976-43b3-65ef491162e6",
+        "workspaceId": "00000000-0000-0000-0000-000000000000",
+        "artifactType": "Lakehouse"
+      }
+    }
+  }
+]

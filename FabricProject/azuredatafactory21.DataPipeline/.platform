@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "azuredatafactory21",
+    "description": "Lookup files from git hub json, load 7 to 8 csv files from GitHub to lakes house bronze"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "68d05f24-cb93-b28f-46cb-abc81234be0b"
+  }
+}

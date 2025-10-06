@@ -1,0 +1,4 @@
+relationship c0d28e7e-bb1a-adb0-253b-7c72910c4143
+	fromColumn: FactInternetSales.ProductKey
+	toColumn: DimProduct.ProductKey
+
